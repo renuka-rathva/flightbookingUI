@@ -1,0 +1,27 @@
+
+
+		body{
+			background: #FFF2F2;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #CFDEF3, #FFF2F2);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #CFDEF3, #FFF2F2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+			
+		}
+		.btn-primary{
+			background-color: #7286D3;
+			border-color: #7286D3;
+		}
+		.btn-primary:hover{
+			background-color: #8EA7E9;
+			border-color: #8EA7E9;
+		}
+		.btn-danger{
+			background-color: #456268;
+			border-color: #456268;
+		}
+		.btn-danger:hover{
+			background-color: #79A3B1;
+			border-color: #79A3B1;
+		}
+		svg{
+			transform: rotate(90deg);
+		}
